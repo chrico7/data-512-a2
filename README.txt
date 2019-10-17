@@ -1,13 +1,23 @@
 DATA 512 - A2
 Corey Christopherson
-10-10-2019
+10-17-2019
 
+The purpose of this project is to investigate the quality of Wikipedia articles on political figures from different countries and explore the concept of any suspected bias based on the results.
 
-The purpose of this project is to explore the concept of bias through data on Wikipedia articles - specifically, articles on political figures from a variety of countries
+Project information and data can be found in the Github repo https://github.com/chrico7/data-512-a2
 
 ###
 ## Source Data ##
 ###
+
+1. page_data.csv - Wikipedia Politicians by Country Data
+   https://figshare.com/articles/Untitled_Item/5513449
+
+2. WPDS_2018_data.csv - Population Reference Bureau World Population Datasheet
+   https://canvas.uw.edu/courses/1319253/files/
+
+3. Objective Revision Evaluation Service (ORES) Article Quality Scores API
+   https://www.mediawiki.org/wiki/ORES
 
 Source data is licensed under the CC-BY-SA 3.0 and GFDL licenses
  - CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
